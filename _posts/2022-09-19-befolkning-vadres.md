@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Befolkningsutvikling i Valdres
-categories: Analyse
+categories: [Analyse, Befolkning, Valdres]
 ---
 
 Noen punkter til artikkelen:
